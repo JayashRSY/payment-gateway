@@ -1,6 +1,6 @@
 # payment-Gateway
 
-##⚡ Payment gateway integration
+⚡ Payment gateway integration
 </br>
 
 ✔ created a simple website where payment gateway is integrated
