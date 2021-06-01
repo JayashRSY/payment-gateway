@@ -3,7 +3,7 @@
 ⚡ Payment gateway integration
 </br>
 
-✔ created a simple website where payment gateway is integrated
+✔ Created a simple website where payment gateway is integrated
 </br>
 ✔ On clicking the donate/pay button, the user will land on the payment page where
 user can select the amount to be paid and the payment type, e.g.
